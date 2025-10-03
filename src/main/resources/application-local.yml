@@ -7,4 +7,4 @@ langchain4j:
     dashscope:
       chat-model:
           model-name: qwen-max
-          api-key: sk-743ed9876d7746d78453a45de3da9423
+          api-key: 1
