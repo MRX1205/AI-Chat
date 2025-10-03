@@ -10,13 +10,13 @@ langchain4j:
     dashscope:
       chat-model:
         model-name: qwen-max
-        api-key: sk-743ed9876d7746d78453a45de3da9423
+        api-key: 1
       embedding-model:
         model-name: text-embedding-v4
-        api-key: sk-743ed9876d7746d78453a45de3da9423
+        api-key: 1
       streaming-chat-model:
         model-name: qwen-max
-        api-key: sk-743ed9876d7746d78453a45de3da9423
+        api-key: 1
 bigmodel:
-  api-key: 77e022c3f41c4ae39985f9a4188d2be0.ikvb13R2QT44ONbv
+  api-key: 1
 
